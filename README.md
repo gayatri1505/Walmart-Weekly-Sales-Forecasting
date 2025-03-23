@@ -56,5 +56,5 @@ For most stores, the forecasted sales closely follow the level and seasonal patt
 - Time series modeling with seasonality
 - Model interpretability and visual diagnostics
 
-## Blog Link: 
+## Blog Link (𝗙𝘂𝗹𝗹 𝘄𝗮𝗹𝗸-𝘁𝗵𝗿𝗼𝘂𝗴𝗵 & 𝗶𝗻𝘀𝗶𝗴𝗵𝘁𝘀): 
 https://medium.com/@gayatrigattani2001/forecasting-walmart-sales-with-sarima-from-aggregated-trends-to-store-level-insights-096dac8957cd
